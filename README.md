@@ -32,6 +32,4 @@ If you have ideas on how to make this tool better, you're welcome to share them!
 
 This is a simple tool and doesn't have a formal license right now. Feel free to use it and share it!
 
----
 
-This README provides a basic explanation of what your script does and how to use it. As you make your tool more advanced (like adding a UI or the ability to check links), you'll want to update this README with more information!
